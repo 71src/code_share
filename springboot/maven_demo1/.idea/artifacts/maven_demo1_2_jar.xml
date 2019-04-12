@@ -1,0 +1,20 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="maven_demo1-2:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/maven_demo1_2_jar</output-path>
+    <root id="archive" name="maven_demo1.jar">
+      <element id="module-output" name="maven_demo1" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/apache/tomcat/tomcat-jsp-api/8.5.0/tomcat-jsp-api-8.5.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/apache/tomcat/tomcat-catalina/8.5.0/tomcat-catalina-8.5.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/apache/tomcat/tomcat-annotations-api/8.5.0/tomcat-annotations-api-8.5.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/apache/tomcat/tomcat-jni/8.5.0/tomcat-jni-8.5.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/apache/tomcat/tomcat-el-api/8.5.0/tomcat-el-api-8.5.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/apache/tomcat/tomcat-servlet-api/8.5.0/tomcat-servlet-api-8.5.0.jar" path-in-jar="/" />
+      <element id="library" level="project" name="Maven: org.apache.el:com.springsource.org.apache.el:7.0.26" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/apache/tomcat/tomcat-coyote/8.5.0/tomcat-coyote-8.5.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/apache/tomcat/tomcat-api/8.5.0/tomcat-api-8.5.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/apache/tomcat/tomcat-util-scan/8.5.0/tomcat-util-scan-8.5.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/apache/tomcat/tomcat-util/8.5.0/tomcat-util-8.5.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/apache/tomcat/tomcat-juli/8.5.0/tomcat-juli-8.5.0.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
